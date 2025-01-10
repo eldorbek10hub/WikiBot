@@ -1,0 +1,2 @@
+# WikiBot
+Wikipediyadan maqola topish.
